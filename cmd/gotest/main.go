@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/a386881/gotest/gotest"
+	"github.com/a386881/gotest"
 )
 
 func main() {
