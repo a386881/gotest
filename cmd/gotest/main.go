@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gotest.test()
+	gotest.Test()
 }
